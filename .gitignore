@@ -1,0 +1,14 @@
+plotly.min.js
+mood_cache.pkl
+mood_chart.html
+__pycache__/
+*.pyc
+*.db
+*.db-shm
+*.db-wal
+DataExport*/
+Google Chat/
+QIP/
+Telegram*/
+result.json
+.free-code-logs
